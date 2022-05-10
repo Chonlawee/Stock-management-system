@@ -1,4 +1,4 @@
-# Stock-management-system
+# StoreCheck-management-system
 ระบบการจัดการสินค้า
 
 นาย ชลวีร์ เสริมสกุล 1620901940
